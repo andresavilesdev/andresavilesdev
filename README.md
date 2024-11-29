@@ -43,7 +43,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,pycharm,py,idea,java,spring,hibernate,maven,postgresql,mysql,supabase,sqlite&perline=6" />
+    <img src="https://skillicons.dev/icons?i=aws,pycharm,py,idea,java,spring,hibernate,graphql,maven,postgresql,mysql,supabase,sqlite&perline=6" />
   </a>
 </p>
 <hr>
@@ -57,7 +57,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,linux,docker,git,gitlab,github,ubuntu&perline=6" />
+    <img src="https://skillicons.dev/icons?i=postman,linux,docker,git,gitlab,github,ubuntu,kafka&perline=6" />
   </a>
 </p>
 <hr>
