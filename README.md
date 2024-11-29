@@ -22,9 +22,10 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">About Me 😎🤏</h2></summary>
+    <hr style="border: none; border-top: 1px solid #333; margin: 20px 0;" />
   </ul>
 </div>
-<p>
+<p align="left">
   🎓 SOFTWARE ENGINEERING STUDENT AT JALA UNIVERSITY. <br><br>
   📝 Software developer, proactive and self-taught, I also like reading and constant learning. <br><br>
   💻 I don't have any work experience yet but I can work on the backend with JAVA | SPRING FRAMEWORK | MYSQL | DOCKER | etc. <br><br>
