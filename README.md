@@ -1,3 +1,5 @@
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"><img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/raw/main/banner.png" alt="Github Banner" style="max-width: 100%;"></a>
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
