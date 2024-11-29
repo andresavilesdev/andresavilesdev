@@ -37,7 +37,7 @@
 <!-- BBACKEND -->
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h2 style="display: inline-block">⚡ Back End</h2></summary>
+    <summary><h2 style="display: inline-block">⚡ Back-End</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
