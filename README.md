@@ -22,7 +22,6 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">About Me 😎🤏</h2></summary>
-    <hr style="border: none; border-top: 1px solid #333; margin: 20px 0;" />
   </ul>
 </div>
 <p align="left">
