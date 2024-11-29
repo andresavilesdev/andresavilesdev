@@ -57,7 +57,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,linux,docker,git,gitlab,github,ubuntu,kafka&perline=6" />
+    <img src="https://skillicons.dev/icons?i=postman,linux,docker,git,gitlab,github,ubuntu,kafka,notion&perline=6" />
   </a>
 </p>
 <hr>
