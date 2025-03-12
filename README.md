@@ -62,6 +62,11 @@
 </p>
 <hr>
 
+## 📊 GitHub Stats
+![Andrés's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresavilesdev&show_icons=true&theme=radical)
+
+![Andrés's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresavilesdev&show_icons=true&theme=tokyonight&count_private=true)
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
